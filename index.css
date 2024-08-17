@@ -1,7 +1,11 @@
+h1 {
+    font-size: 300%;
+}
+
 p {
-    font-size: larger;
+    font-size: 200%;
 }
 
 #stories-list {
-    font-size: larger;
+    font-size: 200%;
 }
